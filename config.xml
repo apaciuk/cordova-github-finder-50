@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE root_element PUBLIC "DTD_name" "DTD_location">
 <widget id="com.xhostcom.githubfind" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Githhub Finder</name>
     <description>
